@@ -92,8 +92,6 @@ Sistem açıldığında sizden **Private Key** ve **Kontrat Adresini** isteyecek
 
 - Hatalı verilen bir sertifikayı ID'si ile iptal edebilirsiniz. İptal edilen sertifikalar doğrulama sorgusunda "Geçersiz" olarak görünür.
 
-
-
 ## 📂 Proje Yapısı
 
 ```
@@ -104,5 +102,3 @@ Sistem açıldığında sizden **Private Key** ve **Kontrat Adresini** isteyecek
     ├── contracts/       # CertificateRegistry.sol
     └── scripts/         # deploy.js
 ```
-
-
