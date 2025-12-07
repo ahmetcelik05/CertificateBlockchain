@@ -1,0 +1,10 @@
+0 private key = 0x30cc574b6f2ca2966bc139bb5634535bab0160772443a11244e41a9e84aa17dd
+Kontrat Adresi: 0x66a836705B2eB9f7bCE451e18ABf5A164f6a5E03
+
+-- SERTIFIKA OLUSTURMA --
+Ogrenci No: 231229085
+Ad Soyad: Mete Celik
+Sertifika Basligi (Or: Yazilim Uzmanligi): Backend
+DIKKAT: Bu SALT degerini saklayin, dogrulama icin gerekli: 0x3b3779cfa5ac589774524cf711fc6b42
+Islem gonderiliyor...
+BASARILI! Sertifika ID'si (Bunu da saklayin): 0xd6b4a98a1c8197f0fbb4c5fd514a72160f13a31f72f89b10d6e80f91605bbcf2
